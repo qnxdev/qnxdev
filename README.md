@@ -10,7 +10,7 @@ Scripting for 8 hours to automate a one-time 8 minute task <img src="https://med
 
 </br>
 
-[![Linkedin](https://img.shields.io/badge/linkedin-smcclennon-26a0da?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/antappansg)
+[![Linkedin](https://simpleicons.org/icons/system76.svg)](https://linkedin.com/in/antappansg)
 
 </br>
 
