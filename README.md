@@ -4,13 +4,9 @@
 - 📚 I've more than 3 years of software development experience using React, NextJs, Typescript, Solidity & more
 - ✉️ How to reach me: Email/LinkedIn
 - ⚡ Not-so-fun fact: Windows 10 sends data to Microsoft [5000+ times per day](https://thehackernews.com/2016/02/microsoft-windows10-privacy.html), even when idle
-- ⚡ Fun fact: There is only 21 Million Bitcoins, world population is 8 Billion
+- ⚡ Fun fact: There is only 21 Million bitcoins, but world population is 8 Billion
 
 Scripting for 8 hours to automate a one-time 8 minute task <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
-
-</br>
-
-[![Linkedin](https://simpleicons.org/icons/system76.svg)](https://linkedin.com/in/antappansg)
 
 </br>
 
