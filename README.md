@@ -14,9 +14,9 @@ Scripting for 8 hours to automate a one-time 8 minute task <img src="https://med
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qnxdev&theme=github_dark&title_color=26a0da&hide_border=true&custom_title=Most%20Used%20Languages&layout=compact&langs_count=10&card_width=445"/>
 
 ## Tools
-<a href="https://system76.com/"><img style="width: 40px; color: #fff;" src="https://simpleicons.org/icons/system76.svg"/></a>
-<a href="https://brave.com/"><img style="width: 40px;" src="https://simpleicons.org/icons/brave.svg"/></a>
-<a href="https://vscodium.com/"><img style="width: 40px;" src="https://simpleicons.org/icons/visualstudiocode.svg"/></a>
-<a href="https://stackoverflow.com/"><img style="width: 40px;" src="https://simpleicons.org/icons/stackoverflow.svg"/></a>
-<a href="https://bitcoin.org/"><img style="width: 40px;" src="https://simpleicons.org/icons/bitcoin.svg"/></a>
-<a href="https://gimp.org/"><img style="width: 40px;" src="https://simpleicons.org/icons/gimp.svg"/></a>
+<a href="https://system76.com/"><img style="width: 40px; background: #ddd; border-radius: 10px;" src="https://simpleicons.org/icons/system76.svg"/></a>
+<a href="https://brave.com/"><img style="width: 40px; background: #FB542B; border-radius: 10px;" src="https://simpleicons.org/icons/brave.svg"/></a>
+<a href="https://vscodium.com/"><img style="width: 40px; background: #127bc7; border-radius: 10px;" src="https://simpleicons.org/icons/visualstudiocode.svg"/></a>
+<a href="https://stackoverflow.com/"><img style="width: 40px; background: #ddd; border-radius: 10px;" src="https://simpleicons.org/icons/stackoverflow.svg"/></a>
+<a href="https://bitcoin.org/"><img style="width: 40px; background: #F7931A; border-radius: 10px;" src="https://simpleicons.org/icons/bitcoin.svg"/></a>
+<a href="https://gimp.org/"><img style="width: 40px; background: #ddd; border-radius: 10px;" src="https://simpleicons.org/icons/gimp.svg"/></a>
