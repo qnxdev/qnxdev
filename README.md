@@ -22,5 +22,5 @@ Scripting for 8 hours to automate a one-time 8 minute task <img src="https://med
 <a href="https://brave.com/"><img style="width: 40px; background: #FB542B; border-radius: 10px;" src="https://cdn.simpleicons.org/brave"/></a>
 <a href="https://vscodium.com/"><img style="width: 40px; background: #127bc7; border-radius: 10px;" src="https://cdn.simpleicons.org/vscodium"/></a>
 <a href="https://stackoverflow.com/"><img style="width: 40px; background: #ddd; border-radius: 10px;" src="https://cdn.simpleicons.org/stackoverflow"/></a>
-<a href="https://bitcoin.org/"><img style="width: 40px; background: #F7931A; border-radius: 10px;" src="https://cdn.simpleicons.org/bitcoin.svg"/></a>
+<a href="https://bitcoin.org/"><img style="width: 40px; background: #F7931A; border-radius: 10px;" src="https://cdn.simpleicons.org/bitcoin"/></a>
 <a href="https://gimp.org/"><img style="width: 40px; background: #ddd; border-radius: 10px;" src="https://cdn.simpleicons.org/gimp.svg"/></a>
