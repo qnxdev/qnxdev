@@ -9,9 +9,13 @@
 Scripting for 8 hours to automate a one-time 8 minute task <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 
 </br>
+<!-- Light mode -->
+[![GitHub Stats — image unavailable](https://readme-stats-fast.vercel.app/api?username=qnxdev&hide_border=true&card_width=320&show_icons=true&rank_icon=github&cache_seconds=86400#gh-light-mode-only)](https://github.com/pranesh-2005/github-readme-stats-fast#gh-light-mode-only)
+[![Top Languages — image unavailable](https://readme-stats-fast.vercel.app/api/top-langs/?username=qnxdev&hide_border=true&card_width=320&langs_count=10&layout=compact&cache_seconds=86400#gh-light-mode-only)](https://github.com/pranesh-2005/github-readme-stats-fast#gh-light-mode-only)
 
-<img src="https://github-readme-stats.vercel.app/api?username=qnxdev&include_all_commits=true&theme=github_dark&title_color=26a0da&icon_color=26a0da&hide_border=true&custom_title=Github%20Stats&show_icons=true"/>\
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qnxdev&theme=github_dark&title_color=26a0da&hide_border=true&custom_title=Most%20Used%20Languages&layout=compact&langs_count=10&card_width=445"/>
+<!-- Dark mode -->
+[![GitHub Stats — image unavailable](https://readme-stats-fast.vercel.app/api?username=qnxdev&hide_border=true&card_width=400&show_icons=true&rank_icon=github&theme=github_dark&cache_seconds=86400#gh-dark-mode-only)](https://github.com/pranesh-2005/github-readme-stats-fast#gh-dark-mode-only)
+[![Top Languages — image unavailable](https://readme-stats-fast.vercel.app/api/top-langs/?username=qnxdev&hide_border=true&card_width=350&layout=compact&langs_count=9&theme=github_dark&cache_seconds=86400#gh-dark-mode-only)](https://github.com/pranesh-2005/github-readme-stats-fast#gh-dark-mode-only)
 
 ## Tools
 <a href="https://system76.com/"><img style="width: 40px; background: #ddd; border-radius: 10px;" src="https://simpleicons.org/icons/system76.svg"/></a>
